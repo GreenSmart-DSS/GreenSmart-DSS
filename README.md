@@ -46,10 +46,6 @@ My research focuses on:
 6.	Khoshsimaie Chenar, M., Liaghat, A., Noory, H., Soltani Salehabadi, F., & Motesharezadeh, B. (2025). Impact of Different Salinity Levels and Irrigation Water Amounts on Yield and Water Productivity of Greenhouse Cucumber in Two Autumn-Winter and Spring-Summer Growing Periods. Water Management in Agriculture.
 7.	Golshani, H., & Khoshsimaie Chenar, M. (2024). Evaluation of AquaCrop and SWAP models in simulating the growth and biomass of different maize cultivars under the conditions of using saline water with drip irrigation system. Iranian Journal of Soil and Water Research, 55(4), 615-636.
 8.	Khoshsimaie Chenar, M., Noory, H., & Mahmoudi Molamahmoud, Z. (2021). Evaluation of SWAP model in estimating soil water content, salinity and yield of three forage maize cultivars under saline water use conditions. Water and Irrigation Management, 11(3), 495-512. 
-9.	Fakhrabadi, H., & Khoshsimaie Chenar, M. (2021). The Effect of Deficit Irrigation and Biochar on quantitative and qualitative characteristics of Basil. Iranian Journal of Irrigation & Drainage, 15(4), 941-954.
-10.	Khoshsima, M., & Noori, H. (2019). Effect of Drip Tape Irrigation with Saline Water on Some Chemical Properties of Soil. Journal of Water Research in Agriculture, 33(4), 565-581.
-11.	Khoshsima, M., & Noory, H. (2019). Effect of Irrigation Water Salinity on Yield and Agronomic Charactristics of Three Corn (Zea mays L.) Hybrids Using Drip-Tape Irrigation. Iranian Journal of Soil and Water Research, 50(8), 2037-2049. 
-
 
 
 ## Contact
