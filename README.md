@@ -18,7 +18,7 @@ My research focuses on:
 
 ## Research Projects
 
-### GreenSmart-DSS: Al-based Decision Support System for Smart Greenhouse Management
+### GreenSmart-DSS: AI-based Decision Support System for Smart Greenhouse Management
 - Developed a web-based Decision Support System (DSS) for irrigation and fertigation scheduling of greenhouse cucumber under variable water quality conditions.
 - Integrated machine learning models for environmental and agricultural predictions (including evapotranspiration and radiation-related components).
 - Designed system modules for ETo and ETc estimation, crop irrigation requirement, fertilization optimization, solar radiation estimation, climate feasibility analysis (greenhouse energy demand analysis).
